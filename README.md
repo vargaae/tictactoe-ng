@@ -1,4 +1,7 @@
-# TictactoeNg
+# TicTacToe PWA with Angular
+
+I have practiced game making with Angular and have learnt it from my favourite YouTube channel's tutorial video: Fireship - 🚀Angular for Beginners - Let's build a Tic-Tac-Toe PWA (https://www.youtube.com/watch?v=G0bBLvWXBvc) 👉https://github.com/fireship-io/angular-tic-tac-toe
+(Used library: @nebular/theme)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
 
